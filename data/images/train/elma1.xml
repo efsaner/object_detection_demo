@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>elma1.jpg</filename>
+	<path>C:\Users\nuref\Desktop\data\images\train\elma1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1823</width>
+		<height>1937</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>apple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>173</ymin>
+			<xmax>1510</xmax>
+			<ymax>1639</ymax>
+		</bndbox>
+	</object>
+</annotation>

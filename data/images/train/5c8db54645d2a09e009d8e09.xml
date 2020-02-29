@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>5c8db54645d2a09e009d8e09.jpg</filename>
+	<path>C:\Users\nuref\Desktop\data\images\train\5c8db54645d2a09e009d8e09.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>596</width>
+		<height>410</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>apple</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>10</ymin>
+			<xmax>593</xmax>
+			<ymax>410</ymax>
+		</bndbox>
+	</object>
+</annotation>
